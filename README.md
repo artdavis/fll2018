@@ -1,5 +1,7 @@
 # FIRST LEGO League 2018 Resources
 
+* [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ)
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License"
