@@ -2,8 +2,8 @@
 
 * [YoutTube Video
   Playlist](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
-** [Video of the Project Challenge](https://www.youtube.com/watch?v=xC3xtuD4h90)
-** [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ)
+  * [Video of the Project Challenge](https://www.youtube.com/watch?v=xC3xtuD4h90)
+  * [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
