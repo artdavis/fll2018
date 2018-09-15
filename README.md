@@ -16,5 +16,5 @@ Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 Original work is available at
 <a xmlns:dct="http://purl.org/dc/terms/"
    href="https://github.com/artdavis/fll2018"
-   rel="dct:source">https://github.com/artdavis/youngengineers</a>.
+   rel="dct:source">https://github.com/artdavis/fll2018</a>.
 
