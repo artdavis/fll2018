@@ -1,9 +1,15 @@
 # FIRST LEGO League 2018 Resources
 
+* [FIRST INTO ORBIT Resource
+  Library](https://www.firstinspires.org/resource-library/fll/into-orbit-challenge-updates-and-resources)
+  * [Challenge Guide](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-Letter.pdf) *READ THIS*
+  * [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/fll/2019/into-orbit-challenge-updates.pdf) *Keep track of this*
+
+
 * [YoutTube Video
   Playlist](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
-  * [Video of the Project Challenge](https://www.youtube.com/watch?v=xC3xtuD4h90)
-  * [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ)
+  * [Video of the Project Challenge](https://www.youtube.com/watch?v=xC3xtuD4h90) *WATCH THIS*
+  * [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ) *WATCH THIS*
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
