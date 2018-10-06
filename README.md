@@ -13,6 +13,7 @@
 * [YoutTube Video Playlist](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
   * **WATCH:** [Video of the Project Challenge](https://www.youtube.com/watch?v=xC3xtuD4h90)
   * **WATCH:** [Video of the Robot Challenge]( https://www.youtube.com/watch?v=lY1Z9kK71jQ)
+  * [Example missions run through](https://www.youtube.com/watch?v=_AqD6t1Cx_w)
 
 * Consider listening to [The Habitat](https://www.gimletmedia.com/the-habitat)
   Podcast with your child.
@@ -22,6 +23,9 @@
   with good ideas for the Into Orbit Challenge. **Note however** that there
   is definitely adult language and situations so use your
   judgment on the suitability of the content for your child.
+  
+* Programming
+  * [EV3 Programming Tutorials](http://ev3lessons.com/en/)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
