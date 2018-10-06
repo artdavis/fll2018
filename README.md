@@ -24,8 +24,9 @@
   is definitely adult language and situations so use your
   judgment on the suitability of the content for your child.
   
-* Programming
+* Robot
   * [EV3 Programming Tutorials](http://ev3lessons.com/en/)
+  * [Sample robot plans](http://ev3lessons.com/en/RobotDesigns.html)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
