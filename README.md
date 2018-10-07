@@ -35,6 +35,26 @@
     * **VIDEO** [WOW! This is what Fire looks like in Zero Gravity](https://www.youtube.com/watch?v=DmrOzeXWxdw)
   * [In Space, Flames Behave in Ways Nobody Thought Possible](https://www.smithsonianmag.com/science-nature/in-space-flames-behave-in-ways-nobody-thought-possible-132637810/)
     * **VIDEO** [How Fire Burns in Space](https://www.youtube.com/watch?v=9zdD7lfB0Fs)
+    
+* TEAM RESEARCH
+  * How would fire be a problem for humans on long duraction space travel?
+  * What solutions currently exist for fire safety?
+    * Carbon dioxide detectors
+    * Ventilation cut off
+    * Power shut down
+    * Use as much non flammable material as possible
+  * What improvements to existing solutions or new inventions can the team come up with?
+    * Eject fire into space
+    * Squash the fire
+    * Automatic carbon dioxied extinguishers
+    * Air locks to isolate fire
+    * Fire vacuum
+  * Miscellaneous
+    * Store extra air on the ship
+    * Plants
+    * Sound wave extinguisher
+    * Foam extinguisher
+    * Better combustion engines on Earth from fire research in space
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
