@@ -31,7 +31,9 @@
 * Fire safety in space research
   * [Fire safety in space - Beyond flammability testing of small samples](http://orbit.dtu.dk/files/130077288/Jomaas_et_al_Acta_Astronautica_Fire_Safety_in_Space_Beyond_Flammability_Testing_of_Small_Samples_PrePrint.pdf)
   * [NASA - Spacecraft Fire Experiment-I (Saffire-I)](https://www.nasa.gov/mission_pages/station/research/experiments/1761.html)
+    * **VIDEO** [NASA Sets a Fire in Space—For Science! | WIRED](https://www.youtube.com/watch?v=qA6HLeGw8xg)
   * [In Space, Flames Behave in Ways Nobody Thought Possible](https://www.smithsonianmag.com/science-nature/in-space-flames-behave-in-ways-nobody-thought-possible-132637810/)
+    * **VIDEO** [How Fire Burns in Space](https://www.youtube.com/watch?v=9zdD7lfB0Fs)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
