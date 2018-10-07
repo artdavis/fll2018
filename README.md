@@ -37,7 +37,9 @@
     * **VIDEO** [How Fire Burns in Space](https://www.youtube.com/watch?v=9zdD7lfB0Fs)
     
 * TEAM RESEARCH
-  * How would fire be a problem for humans on long duraction space travel?
+  * How would fire be a problem for humans on long duration space travel?
+    * Burns up the oxygen humans need to breath
+    * Burns through the ship walls causing breach
   * What solutions currently exist for fire safety?
     * Carbon dioxide detectors
     * Ventilation cut off
