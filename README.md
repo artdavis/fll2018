@@ -8,6 +8,7 @@
   Library](https://www.firstinspires.org/resource-library/fll/into-orbit-challenge-updates-and-resources)
   * **READ:** [Challenge Guide](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-Letter.pdf)
   * **Keep track of:** [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/fll/2019/into-orbit-challenge-updates.pdf)
+  * [Online Forum](https://forums.usfirst.org/)
 
 
 * [YoutTube Video Playlist](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
